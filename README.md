@@ -7,8 +7,7 @@
 <p>Credits for the design goes to <a href='https://xpeedstudio.com/'>XpeedStudio</a></p>
 
 <p>Crafted by <a href='https://ghassanmalik.com/'>Ghassan Malik</a></p>
-c
-👉 Live Demo: <a href='https://car-rental-ten.vercel.app/'>Live Demo</a>
+ Live Demo: <a href='https://car-rental-ten.vercel.app/'>Live Demo</a>
 
 <h3>Build with:</h3>
 
